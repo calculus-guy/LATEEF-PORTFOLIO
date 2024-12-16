@@ -19,8 +19,8 @@ const Work = () => {
     {
       title: 'E-Commerce Web Application',
       description: 'I designed and developed a responsive e-commerce platform using ReactJS and styled with Tailwind CSS, focusing on a seamless shopping experience. Key features include product browsing and secure checkout, all optimized for both desktop and mobile devices.',
-      Project_Link: 'https://ahmed-web-project.vercel.app/index.html',
-      Code_Link: '',
+      Project_Link: 'https://nike-website-blond-one.vercel.app/#about-us',
+      Code_Link: 'https://github.com/calculus-guy/Nike-website',
       imgURL: images.nike,
       Tag: 'React JS',
     },
@@ -36,8 +36,16 @@ const Work = () => {
       title: 'Full-Stack Portfolio Website',
       description: 'I developed a responsive portfolio website using ReactJS for the front-end, Node.js for the back-end, and Sass for styling. The project features a dynamic user interface, smooth navigation, and optimized performance across devices. It showcases my ability to integrate front-end and back-end technologies while maintaining a strong focus on user experience.',
       Project_Link: 'https://ahmed-web-project.vercel.app/index.html',
-      Code_Link: '',
+      Code_Link: 'https://github.com/calculus-guy/LATEEF-PORTFOLIO',
       imgURL: images.portfolio,
+      Tag: 'Full-Stack',
+    },
+    {
+      title: 'Full-Stack Shopping Website',
+      description: 'I am developing a dynamic shopping website using React.js for the frontend, Node.js for the backend, MongoDB for database management, and Stripe for secure payments. While the laptop view is complete, I am currently enhancing its responsiveness, ensuring a seamless and user-friendly experience across all devices.',
+      Project_Link: '',
+      Code_Link: '',
+      imgURL: images.shopper,
       Tag: 'Full-Stack',
     },
   ];
